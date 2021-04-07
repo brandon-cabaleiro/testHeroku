@@ -1,1 +1,1 @@
-web: gunicorn hancock/wsgi.py
+web: gunicorn "hancock/wsgi.py"
