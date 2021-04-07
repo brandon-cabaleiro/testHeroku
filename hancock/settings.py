@@ -28,7 +28,7 @@ SECRET_KEY = '!bh3q6hmq9d=yr5lw2mt#v3*($1ew728e3h-y*(5wd12n0m7%0'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://fast-refuge-42304.herokuapp.com/']
 
 
 # Application definition
