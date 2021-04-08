@@ -1,1 +1,1 @@
-web: poetry run ./manage.py runserver
+web: gunicorn hancock.wsgi
